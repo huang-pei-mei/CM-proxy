@@ -4,12 +4,25 @@ body {
 }
 
 #summary {
+  display: block;
   max-width: 1000px;
   margin: auto;
   margin-bottom: 40px;
-  margin-top: 40px;
+  margin-top: 60px;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+#aggReview {
+  max-width: 1000px;
+  margin: auto;
+  margin-bottom: 1px;
+}
+
+@media (max-width: 960px) {
+  #summary {
+    margin-top: 560px;
+  }
 }
 
 /*/////////////////////
