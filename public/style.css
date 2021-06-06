@@ -16,7 +16,7 @@ body {
 #aggReview {
   max-width: 1000px;
   margin: auto;
-  margin-bottom: 1px;
+  margin-top: -70px;
 }
 
 @media (max-width: 960px) {
