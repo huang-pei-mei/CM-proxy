@@ -1,17 +1,17 @@
 # AUDIBLE REVERSE PROXY
-![gif1](https://giphy.com/embed/s6irU9RR1V4p0PbxSh)
+![gif1](https://github.com/huang-pei-mei/CM-proxy/blob/master/gifs/01.gif)
 
 ---
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Related Projects](#relatedProjects)
+1. [Overview](#Overview)
+2. [Related Projects](#RelatedProjects)
 3. [Development](#development)
 
 ---
 
-## Overview {#overview}
+## Overview
 
 ### Background
 
@@ -28,7 +28,7 @@ These services were then combined using a reverse proxy.
 
 - implemented page load improvements including gzip compression and lazy loading
 
-## Related Projects {relatedProjects}
+## Related Projects
 
  - [Title Service](https://github.com/huang-pei-mei/title-service) (my service)
  - [Price Service](https://github.com/huang-pei-mei/price-service)
