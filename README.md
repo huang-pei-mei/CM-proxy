@@ -1,5 +1,6 @@
 # AUDIBLE REVERSE PROXY
-![gif1](https://media.giphy.com/media/s6irU9RR1V4p0PbxSh/giphy.gif)
+![gif1](https://giphy.com/embed/s6irU9RR1V4p0PbxSh)
+
 ---
 
 ## Table of Contents
