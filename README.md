@@ -1,5 +1,6 @@
 # AUDIBLE REVERSE PROXY
 ![gif1](https://github.com/huang-pei-mei/CM-proxy/blob/master/gifs/01.gif)
+![gif2](https://github.com/huang-pei-mei/CM-proxy/blob/master/gifs/02.gif)
 
 ---
 
@@ -15,7 +16,7 @@
 
 ### Background
 
->This is a group project with an emphasis on service oriented architecture. Each team member (4) was assigned one or two services for the audibles.com product page.
+This is a group project with an emphasis on service oriented architecture. Each team member (4) was assigned one or two services for the audibles.com product page.
 The services were created in React, node/express, and MonogoDB or Mysql.
 These services were then combined using a reverse proxy.
 
