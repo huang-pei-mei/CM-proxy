@@ -19,8 +19,19 @@ body {
   margin-top: -70px;
 }
 
+#also-enjoyed-service h2 {
+  margin-bottom: 10px;
+}
+
+.also-enjoyed-container {
+  margin-top: 70px;
+}
+
 @media (max-width: 960px) {
   #summary {
+    margin-top: 10px;
+  }
+  .also-enjoyed-container {
     margin-top: 560px;
   }
 }
