@@ -8,6 +8,7 @@
 
 1. [Overview](#overview)
 2. [Related Projects](#related-projects)
+3. [Installation](#installation)
 
 ---
 
@@ -23,6 +24,8 @@ These services were then combined using a reverse proxy.
 
 - Created the Title service to serve up the title, information, image, audio sample, and background image
 [see service](https://github.com/huang-pei-mei/title-service)
+
+- generate and serve data for 100 books
 
 - created the proxy to combine the page
 
@@ -42,3 +45,12 @@ These services were then combined using a reverse proxy.
  - [Reviews Service](https://github.com/huang-pei-mei/reviews-service)
 
 
+## Installation
+
+a .nvmrc file has been included
+
+`npm install`
+
+`npm run server-dev`
+
+*the current version of this proxy connects to deployed s3 buckets for each service. the avalibility of these deployed servers is not guarenteed. It is roccommended to download the related projects and link to the local bundles for development*
