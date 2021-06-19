@@ -25,15 +25,13 @@ These services were then combined using a reverse proxy.
 - Created the Title service to serve up the title, information, image, audio sample, and background image
 [see service](https://github.com/huang-pei-mei/title-service)
 
-- generate and serve data for 100 books
-
 - created the proxy to combine the page
 
 - deployed to ec2 and s3
 
 - implemented page load improvements including gzip compression and lazy loading
 
-- ticketed all work through trello and lead daily standups
+- ticketed all work through Trello and lead daily standups
 
 ## Related Projects
 
@@ -47,10 +45,10 @@ These services were then combined using a reverse proxy.
 
 ## Installation
 
-a .nvmrc file has been included
+an .nvmrc file has been included
 
 `npm install`
 
 `npm run server-dev`
 
-*the current version of this proxy connects to deployed s3 buckets for each service. the avalibility of these deployed servers is not guarenteed. It is roccommended to download the related projects and link to the local bundles for development*
+*the current version of this proxy connects to deployed s3 buckets for each service. the availability of these deployed servers is not guaranteed. It is recommended to download the related projects and link to the local bundles for development*
